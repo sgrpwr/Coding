@@ -34,6 +34,7 @@ int main()
 
         h[i] = h_item;
     }
+    
 
     string word;
     getline(cin, word);
